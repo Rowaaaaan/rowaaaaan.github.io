@@ -23,7 +23,7 @@ params:
             - name: Projects
               url: "/projects/"
             - name: Blog
-              url: "/blog"
+              url: "/blog/"
 
     #socialIcons: # optional
         #name: "<platform>"
