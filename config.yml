@@ -9,7 +9,7 @@ params:
         title: "Hi, my name is Rowan!" # optional default will be site title
         subtitle: "I'm a developer working mainly with C, C++, C#, and Python.
             I also have some experience with Vanilla Js, Typescript, and Java. "
-        imageUrl: "/data/assets/images/profile.png" # optional
+        imageUrl: "/images/profile.png" # optional
         imageTitle: "Profile picture of Rowan" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
