@@ -1,7 +1,7 @@
 ---
 title: "My Projects"
 date: 2023-02-23
-draft: true
+draft: false
 ---
 
 Currently, the only public project I have is my dotfiles repo, which you can find [here](https://github.com/Rowaaaaan/period).
