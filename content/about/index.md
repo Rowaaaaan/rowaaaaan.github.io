@@ -1,6 +1,5 @@
 ---
 title: "About Me"
-date: 2023-02-26
 draft: false
 ---
 Hello, my name is Rowan.
