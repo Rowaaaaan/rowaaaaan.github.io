@@ -8,7 +8,7 @@ params:
         enabled: true
         title: "Hi, I'm known online as Rowan!" # optional default will be site title
         subtitle: "I'm a developer working mainly with C, C++, and Java 
-          with experience in Web3 development through Typescript, Vue.js, and Rust"
+          with experience in Web3 Solana development through Typescript, Vue.js, and Rust"
         imageUrl: "/images/profile.png" # optional
         imageTitle: "Profile picture of Rowan" # optional
         imageWidth: 120 # custom size
