@@ -2,9 +2,7 @@
 title: "About Me"
 draft: false
 ---
-Hello, my name is Rowan.
-
-I am a Computer Science graduate, working mainly with embedded microcontrollers during my course. Been programming for around four years, mostly having experience with C and C++, as well as Python. I also have experience with Java, and some basic experience with languages such as Javascript and Typescript, and C# using the Xamarin Framework.
+Hello, I'm known online as Rowan!
 
 I like building things for the sake of building them, regardless of its practical value–assuming it actually works. I’m always open to learning, and am willing to try anything and everything.
 
