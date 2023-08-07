@@ -3,8 +3,6 @@ title: "Resume"
 draft: false
 ---
 
-I am a Computer Science graduate, specializing in embedded IoT development with microcontrollers. Been programming for around four years, mostly having experience with C and C++, as well as Python. I also have backend development experience with Java using the Springboot Framework. Currently, I'm learning fullstack web3 development with the Solana blockchain using Rust and Typescript.
-
 # Work Experience
 + Front-end Web Development Intern (April 2023 - June 2023)
 

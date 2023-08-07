@@ -4,6 +4,8 @@ draft: false
 ---
 Hello, I'm known online as Rowan!
 
+I am a Computer Science graduate, specializing in embedded IoT development with microcontrollers. Been programming for around four years, mostly having experience with C and C++, as well as Python. I also have backend development experience with Java using the Springboot Framework. Currently, I'm learning fullstack web3 development with the Solana blockchain using Rust and Typescript.
+
 I like building things for the sake of building them, regardless of its practical value–assuming it actually works. I’m always open to learning, and am willing to try anything and everything.
 
 # Software that I use
