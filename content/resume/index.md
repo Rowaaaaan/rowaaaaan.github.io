@@ -35,7 +35,7 @@ draft: false
     + Created [Tic Dapp Toe](https://github.com/Rowaaaaan/tic-dapp-toe), a Tic Tac Toe clone uses two
     wallets from different users to  interact, with retrievable game sessions.
 
-+ CompTIA Security+, (December 2022)
++ CompTIA Security+, (June 2022)
     + Learned Operations and Incidence response
     + Learned organizational and risk management, and security compliance
     + Learned basic cryptography, public key infrastructures, and network design
